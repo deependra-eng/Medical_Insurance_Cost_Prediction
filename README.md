@@ -1,4 +1,4 @@
-# Medical_Insurance_Cost_Prediction
+# Medical_Insurance_Cost_Prediction (ML Project)
 
 Project Overview : The objective of this project is to develop a predictive model that can accurately estimate the medical insurance costs for individuals based on various factors. This will help insurance companies in pricing their policies more accurately and effectively.
 
