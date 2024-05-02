@@ -15,7 +15,7 @@ EDA Observations:
 
 Data Modeling: We have built different Predictive models like Linear regression(r2_score = 0.0.74), Support Vector regressor(r2_score = 0.21), DecisionTreeRegressor using Gridsearch-CV(r2_score = 0.83), RandomForest Regressor using Gridsearch-CV(r2_score = 0.86).Both model DecisionTreeRegressor using and RandomForest Regressor have almost same accuracy.
 
-Model Selection : We have two model which are performing very well. we can choose based on factors like Accuracy
+Model Selection : We have two model which are performing very well. we can choose based on factors like Accuracy & Interpretability.
 
 >>Accuracy: If our main goal is to maximize accuracy and you have the computational resources to train and use a Random Forest model, then the Random Forest model might be the better choice since it generally provides better accuracy than a single Decision Tree.
 >>Interpretability: Decision Trees are easier to interpret and visualize compared to Random Forests, which are essentially an ensemble of many Decision Trees. If interpretability is important for your application, we should go for the Decision Tree model.
