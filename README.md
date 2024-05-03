@@ -13,7 +13,7 @@ EDA Observations:
 >>Smoker feature contains Non-smoker=1064 people and Smoker=274 people.
 >>Dataset containing residential area in the US, northeast, southeast, southwest, northwest. Al have same no of people.
 
-Data Modeling: We have built different Predictive models like Linear regression(r2_score = 0.0.74), Support Vector regressor(r2_score = 0.21), DecisionTreeRegressor using Gridsearch-CV(r2_score = 0.83), RandomForest Regressor using Gridsearch-CV(r2_score = 0.86).Both model DecisionTreeRegressor using and RandomForest Regressor have almost same accuracy.
+Data Modeling: We have built different Predictive models like Linear regression(r2_score = 0.74), Support Vector regressor(r2_score = 0.21), DecisionTreeRegressor using Gridsearch-CV(r2_score = 0.83), RandomForest Regressor using Gridsearch-CV(r2_score = 0.86).Both model DecisionTreeRegressor using and RandomForest Regressor have almost same accuracy.
 
 Model Selection : We have two model which are performing very well. we can choose based on factors like Accuracy & Interpretability.
 
